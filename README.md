@@ -11,7 +11,7 @@ Navigate to any Linux environment installed on the system or installed inside a 
 
 ### Step 2:
 
-Write the C Program using Linux IO Systems locking
+Write the C Program using Linux IO Systems locking.
 
 ### Step 3:
 
